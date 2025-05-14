@@ -25,7 +25,7 @@ struct mhs {
 
 ---
 
-##🧠 Fungsi Grade
+## 🧠 Fungsi Grade
 
 ```cpp
 char grades(int n) {
